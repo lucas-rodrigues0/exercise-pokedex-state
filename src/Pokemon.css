@@ -1,0 +1,26 @@
+.pokemon {
+  background-color: rgb(209, 203, 171);
+  border: 1px gray solid;
+  border-radius: 10px;
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: center;
+  margin: 10px 10px;
+  padding: 40px 20px 10px;
+}
+
+.pokemon-text {
+  font-size: 18px;
+  font-weight: 650;
+  margin-bottom: 0;
+  width: 50%;
+}
+
+.pokemon-img {
+  width: 60%;
+}
+
+.info-label {
+  font-size: 14px;
+  font-weight: 400;
+}

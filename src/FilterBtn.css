@@ -1,0 +1,15 @@
+.filter-btn-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: 5px 15px;
+  max-width: 500px;
+  padding: 10px;
+  width: 100%;
+}
+
+.filter-btn {
+  border-radius: 6px;
+  flex: 1 1 auto;
+  padding: 5px 10px;
+}
